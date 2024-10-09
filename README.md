@@ -1,14 +1,14 @@
 # Project Title: Crime and Census Data Analysis Using Python and SQLite
 
 ## Table of Contents
-- [Description](Description)
+- [Description](#Description)
 - [Data Sources](#Data-Sources)
 - [Prerequisites](#Prerequisites)
 - [Steps](#Steps)
 - [Example_Queries_Executed](Example-Queries-Executed)
-- [Pros and Cons of Using Pandas vs. Python Directly for Queries](#Pros_and_Cons_of_Using_Pandas_vs._Python_Directly_for_Queries)
+- [Pros and Cons of Using Pandas vs. Python Directly for Queries](#Pros-and-Cons-of-Using-Pandas-vs.-Python-Directly-for-Queries)
 -[Conclusion](#Conclusion)
-- [Author](#author)
+- [Author](#Author)
 
 ## Description
 This project involves reading CSV files containing data about Chicago Census, Crime Data, and Public Schools, then performing SQL queries for data analysis using Python. The data is first loaded into a SQLite database, queried using Python, and the results are read into pandas DataFrames for further manipulation and structured output. The analysis focuses on identifying key insights such as crime statistics, socio-economic conditions, and school safety in different areas of Chicago.
