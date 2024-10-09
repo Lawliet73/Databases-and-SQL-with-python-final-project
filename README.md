@@ -5,9 +5,9 @@
 - [Data Sources](#Data-Sources)
 - [Prerequisites](#Prerequisites)
 - [Steps](#Steps)
-- [Example_Queries_Executed](Example-Queries-Executed)
-- [Pros and Cons of Using Pandas vs. Python Directly for Queries](#Pros-and-Cons-of-Using-Pandas-vs.-Python-Directly-for-Queries)
--[Conclusion](#Conclusion)
+- [Example_Queries_Executed](#Example-Queries-Executed)
+- [Pros and Cons of Using Pandas vs. Python Directly for Queries](#Pros-and-Cons-of-Using-Pandas-vs-Python-Directly-for-Queries)
+- [Conclusion](#Conclusion)
 - [Author](#Author)
 
 ## Description
